@@ -1,4 +1,4 @@
-[![Nightly Build](https://github.com/BMoreToken/bmorecoinwallet/actions/workflows/nightly.yml/badge.svg)](https://github.com/BMoreToken/bmorecoinwallet/actions/workflows/nightly.yml)
+[![Nightly Build](https://github.com/BMoreToken/bmorecoinwallet/actions/workflows/nightly.yml/badge.svg)](https://github.com/BMoreToken/bmorecoinwallet/actions/workflows/nightly.yml) 
 [![Language grade: C/C++](https://img.shields.io/lgtm/grade/cpp/g/BMoreToken/bmorecoinwallet.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/BMoreToken/bmorecoinwallet/context:cpp)
 [![Total alerts](https://img.shields.io/lgtm/alerts/g/BMoreToken/bmorecoinwallet.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/BMoreToken/bmorecoinwallet/alerts/)
 [![CodeQL](https://github.com/BMoreToken/bmorecoinwallet/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/BMoreToken/bmorecoinwallet/actions/workflows/codeql-analysis.yml)
