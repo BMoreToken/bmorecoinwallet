@@ -7,7 +7,7 @@
 * Max Total Supply: 3,947,960 BALT
 * Holders: 18
 * Transfers: 40
-* Address: [![0xbdd4f273c2b0f0b84a51bd733aac617d91159376](https://etherscan.io/address/0xbdd4f273c2b0f0b84a51bd733aac617d91159376)
+* Address: [[0xbdd4f273c2b0f0b84a51bd733aac617d91159376](https://etherscan.io/address/0xbdd4f273c2b0f0b84a51bd733aac617d91159376)]
 
 ## GUI Getting Started
 ### Windows Users
