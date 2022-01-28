@@ -1,5 +1,9 @@
-## BMoreCoin BALTx GUI Getting Started
+## BMoreCoin (BALTx) Tokenomics
+* Max Block Number 500,000,000.
+* Total number of available coins 18,446,744,073,709,551,616.
+* Difficulty Target is 60 Seconds.
 
+## GUI Getting Started
 ### Windows Users
 Still Working on a successful build
 
