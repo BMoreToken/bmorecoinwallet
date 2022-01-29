@@ -12,6 +12,7 @@
 * Address: [[0xbdd4f273c2b0f0b84a51bd733aac617d91159376](https://etherscan.io/address/0xbdd4f273c2b0f0b84a51bd733aac617d91159376)]
 
 ## GUI Getting Started
+* CLI use https://bmoretoken.github.io/bmorecoin/
 ### Windows Users
 * Still Working on a successful build
 
