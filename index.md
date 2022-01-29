@@ -3,7 +3,7 @@
 * Max Block Number 500,000,000.
 * Total number of available 18,446,744,073,709,551,616 BALTx
 * Difficulty Target is 60 Seconds.
-* Offical Pool at [[pool.bmorecoin.com](https://pool.bmorecoin.com)] ( we will help you build your own too! )
+* Official Pool at [[pool.bmorecoin.com](https://pool.bmorecoin.com)] ( we will help you build your own too! )
 
 ### BMoreToken (BALT)
 * Max Total Supply: 3,947,960 BALT
